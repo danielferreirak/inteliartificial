@@ -23,7 +23,7 @@ const perguntas = [
         enunciado: "As fontes renováveis de energia desempenham um papel crucial na transição para um futuro sustentável. Quanto às fontes de energia renováveis, o que você acha sobre a exploração de novas formas menos poluentes, que automaticamente agridem menos o meio ambiente?",
         alternativas: [
             {
-                texto: "Concordo, pois os recursos do nosso planeta são finitos, e precisamos explorar formas menos agressivas.",
+                texto: "Concordo, pois os recursos do nosso planeta são finitos, e precisamos ter consciễncia e explorar formas menos agressivas.",
                 afirmacao: "Você é um cidadão comprometido com a manutenção e bem  do nosso planeta no longo prazo."
             },
             {
